@@ -1,0 +1,18 @@
+Adithya: hello
+Bot: Hello Adithya! Nice to see you.
+Adithya: joke
+Bot: Why do Java developers wear glasses? Because they cannot C#.
+Adithya: quote
+Bot: Dream big. Start small. Act now.
+Adithya: calculator
+Adithya: calulator
+Bot: Sorry, I don't understand that command.
+Adithya: about
+Bot: I am a Python Rule-Based Chatbot.
+Adithya: help
+Adithya: time
+Bot: Current Time: 04:56 PM
+Adithya: date
+Bot: Today's Date: 30-06-2026
+Adithya: bye
+Bot: Goodbye! Have a great day.
